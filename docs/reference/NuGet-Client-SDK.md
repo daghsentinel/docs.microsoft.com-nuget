@@ -34,14 +34,19 @@ You can find the source code for these packages in the [NuGet/NuGet.Client](http
 
 ## Support policy
 
-The current versions of the NuGet Client SDK packages will be supported.
-
-We are fully committed to supporting the most recent version of NuGet Client SDK packages. This means you can rely on us for bug fixes, updates, and enhancements exclusive to the version currently under development.
+We are fully committed to supporting the most recent versions of the NuGet Client SDK packages.
+This means you can rely on us for bug fixes, updates, and enhancements exclusive to the version currently under development.
 
 NuGet Client SDK packages follow the [Microsoft Modern Lifecycle Policy](https://learn.microsoft.com/lifecycle/policies/modern).
 
 We do not guarantee API stability, as our team's responsibility is tooling, not libraries.
 See [https://github.com/NuGet/NuGet.Client/blob/dev/docs/nuget-sdk.md] for more information.
+
+Here are steps you can take to leverage the NuGet Support Policy effectively:
+
+* Use the latest versions of NuGet Client SDK packages.
+* Note that we will release patches when critical security fixes are required for an LTS version of either Visual Studio or the .NET SDK.
+* Examine your project for dependencies on deprecated NuGet Client SDK packages.
 
 ### Security Patch Releases
 
