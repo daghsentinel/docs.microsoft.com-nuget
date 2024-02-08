@@ -37,7 +37,7 @@ You can find the source code for these packages in the [NuGet/NuGet.Client](http
 We are fully committed to supporting the most recent versions of the NuGet Client SDK packages.
 This means you can rely on us for bug fixes, updates, and enhancements exclusive to the version currently under development.
 
-NuGet Client SDK packages follow the [Microsoft Modern Lifecycle Policy](https://learn.microsoft.com/lifecycle/policies/modern).
+NuGet Client SDK packages follow the [Microsoft Modern Lifecycle Policy](https://aka.ms/lifecycle).
 
 We do not guarantee API stability, as our team's responsibility is tooling, not libraries.
 See [https://github.com/NuGet/NuGet.Client/blob/dev/docs/nuget-sdk.md] for more information.
